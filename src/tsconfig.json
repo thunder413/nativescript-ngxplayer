@@ -19,9 +19,7 @@
         "noImplicitUseStrict": false,
         "noFallthroughCasesInSwitch": true
     },
-    "include": [
-        "../angular/**/*.ts"
-    ],
+
     "exclude": [
         "node_modules"
     ],
