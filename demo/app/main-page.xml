@@ -1,0 +1,6 @@
+<Page xmlns="http://schemas.nativescript.org/tns.xsd" loaded="pageLoaded" class="page"
+  xmlns:ui="nativescript-ngxplayer">
+  <StackLayout class="p-20">
+    <ui:NgxPlayer apiKey="AIzaSyAUm14Rg9vH_Zv9X5BeWQ8UyMMypEq4htA" src="ufgtnulN_CA" playerInfo="{{ onPlayerInfo }}" backgroundColor="black" height="200" />
+  </StackLayout>
+</Page>
